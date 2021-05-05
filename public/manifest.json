@@ -1,0 +1,15 @@
+{
+  "short_name": "ZZY Project",
+  "name": "ZZY Word Project",
+  "icons": [
+    {
+      "src": "browserIcon.svg",
+      "sizes": "193x192",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
