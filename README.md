@@ -9,4 +9,4 @@
 - 在webpack中添加了一些自己的注释(便于理解，菜，体谅一下。)
 
 ## 安装
-- 
+- git clone https://github.com/Weibienaole/React-Mobile-Project.git
