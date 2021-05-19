@@ -7,14 +7,18 @@
     content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0" />
   <meta name="theme-color" content="#000000" />
   <meta name="description" content="Web site created using create-react-app" />
-  <link rel="icon" href="%PUBLIC_URL%/browserIcon.svg" type="image/svg">　
+  <link rel="icon" href="./browserIcon.svg" type="image/svg">
   <title>Project</title>
+  <script>
+    // 计算白屏加载时间
+    console.time();
+  </script>
 </head>
 
 <body>
   <div id="root"></div>
 </body>
-<!-- <script src="./rem.js"></script> -->
-<!-- 蓝狐 rem - 16px  rem.js 内 *8 -->
-
+<script>
+  console.timeEnd();
+</script>
 </html>

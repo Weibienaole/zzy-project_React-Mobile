@@ -7902,7 +7902,7 @@ promise@^8.0.3:
   dependencies:
     asap "~2.0.6"
 
-prop-types@15.x, prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.6, prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@15.x, prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.6, prop-types@^15.5.8, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -8268,15 +8268,6 @@ react-router@5.2.0:
     react-is "^16.6.0"
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
-
-react-swipe@5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/react-swipe/-/react-swipe-5.1.1.tgz#5aeb08afc5efec13507aed6e5841360821e9f0d1"
-  integrity sha512-7o4rktmVVTQaZk5MoibL3tR9tA/5qLy8jlKLtMn7IcDl6nj7Vafb7OIuqExWoPNb/Xe1SLTnwEoaHICGKDCGew==
-  dependencies:
-    object-assign "^4.1.1"
-    prop-types "^15.6.0"
-    swipe-js-iso "^2.0.4"
 
 react-tween-state@^0.1.5:
   version "0.1.5"
@@ -9524,11 +9515,6 @@ svgo@^1.0.0, svgo@^1.2.2:
     stable "^0.1.8"
     unquote "~1.1.1"
     util.promisify "~1.0.0"
-
-swipe-js-iso@^2.0.4:
-  version "2.1.5"
-  resolved "https://registry.yarnpkg.com/swipe-js-iso/-/swipe-js-iso-2.1.5.tgz#9b0eea8b9740487e6169d655184fc6440b6a2e34"
-  integrity sha512-yTTU5tDYEvtKfCD8PN+Rva25acJwogUCd6wPT1n1im/MOJlg6PtHiPKaaNK7HDBiIrWThA/WRbJZbox2letghg==
 
 symbol-observable@^1.2.0:
   version "1.2.0"

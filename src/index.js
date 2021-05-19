@@ -6,7 +6,6 @@ import './index.css'
 import App from './App'
 import { devtools } from 'zzy-javascript-devtools'
 
-
 // 目前已具有事件
 /**
  * pageShare - app分享能力 

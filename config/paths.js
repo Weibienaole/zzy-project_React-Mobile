@@ -23,7 +23,6 @@ const publicUrlOrPath = getPublicUrlOrPath(
   require(resolveApp('package.json')).homepage,
   process.env.PUBLIC_URL
 );
-
 // 扩展名
 const moduleFileExtensions = [
   'web.mjs',
